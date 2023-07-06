@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poomanirajan M</h1>
 <h3 align="center">Learning Data Science. I am having 8+ years of total experience.</h3>
 
-- 🔭 I’m currently working in **Pineaxe Technologies, Coimbatore.**
+- 🔭 I’m currently working in **iamneo edutech private limited, Coimbatore.**
 
 - 🌱 I’m currently learning **Python and SQL.**
 
